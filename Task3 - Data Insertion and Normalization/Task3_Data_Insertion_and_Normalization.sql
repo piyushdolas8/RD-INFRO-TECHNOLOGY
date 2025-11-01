@@ -1,6 +1,5 @@
 -- Task 3: Data Insertion and Normalization
-USE management;  -- (Use your actual database name)
-
+USE management;  
 -- Publisher Data
 INSERT INTO Publisher (Name, Contact) VALUES
 ('Penguin Books', 'penguin@gmail.com'),
