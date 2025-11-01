@@ -1,5 +1,5 @@
 -- Task 8: Backup, Restore and Security
-USE management;  -- Replace with your actual database name
+USE management; 
 
 -- 🧩 1. Creating a New User with Limited Access
 CREATE USER 'readonly_user'@'localhost' IDENTIFIED BY 'readonly123';
