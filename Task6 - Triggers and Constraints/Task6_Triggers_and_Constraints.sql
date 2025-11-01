@@ -1,5 +1,5 @@
 -- Task 6: Triggers and Constraints
-USE management;  -- Replace with your actual database name
+USE management; 
 
 -- 🧩 1. Adding Constraints to Ensure Data Integrity
 
