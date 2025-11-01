@@ -1,5 +1,5 @@
 -- Task 7: Performance Optimization
-USE management;  -- Replace with your database name
+USE management; 
 
 -- 🧩 1. Check performance of a normal query before optimization
 EXPLAIN
